@@ -31,7 +31,7 @@ This project is a responsive web page that displays a list of products fetched f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/esinniobiwaquareeb/product-list.git
+git clone https://github.com/esinniobiwaquareeb/nextjs-product-list.git
 ```
 
 2. Navigate to the project directory:
